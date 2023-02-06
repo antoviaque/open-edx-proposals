@@ -109,7 +109,7 @@ Reporting Security Issues
 Please do not report security issues in public. Please email security@tcril.org.
 
 
-.. |license-badge| image:: https://img.shields.io/github/license/openedx/open-edx-proposals.svg
+.. |license-badge| image:: https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg
     :target: https://github.com/openedx/open-edx-proposals/blob/main/LICENSE.txt
     :alt: License
 
