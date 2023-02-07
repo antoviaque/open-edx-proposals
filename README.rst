@@ -20,7 +20,7 @@ Getting Started
 
 This repository holds a bunch of text files, each of which represent an OEP or
 supplementary documentation. For browsing these OEPs, we recommend you read them
-on the website.
+in `their published form <https://open-edx-proposals.readthedocs.io>`_ on ReadTheDocs.
 
 Contributing
 ************
